@@ -4,7 +4,7 @@
 - 📫 How to reach me ... seungin0521@gmail.com
 
 This is code for analyzing the gro/xtc file used in GROMACS, a molecular dynamics simulation program.
-In order to use the code, you will need to modify the code name of the molecule or minor numerical settings yourself.This is code for analyzing the gro/xtc file used in GROMACS, a molecular dynamics simulation program.
+In order to use the code, you will need to modify the code name of the molecule or minor numerical settings yourself.
 
 In order to use the code, you will need to modify the code name of the molecule or minor numerical settings yourself.
 A brief description of the code is as follows, and all codes were written based on the data file of GROMACS 2021.
