@@ -5,8 +5,6 @@
 
 This is code for analyzing the gro/xtc file used in GROMACS, a molecular dynamics simulation program.
 In order to use the code, you will need to modify the code name of the molecule or minor numerical settings yourself.
-
-In order to use the code, you will need to modify the code name of the molecule or minor numerical settings yourself.
 A brief description of the code is as follows, and all codes were written based on the data file of GROMACS 2021.
 
 modi_atoms_alltime_distrb.py: Code that analyzes the number of interactions of molecules by time in the xtc file.
